@@ -1,0 +1,17 @@
+#!/bin/bash
+clear
+lg="\e[92m"
+wh="\e[97m"
+bl="\e[96m"
+
+read -n 1 -r -s -p $'Press Any Key\n'
+git add .
+git commit -m "o_0"
+git branch -M main
+git push -u origin main
+echo ""
+echo " Finished :)"
+echo ""
+echo ""
+
+
