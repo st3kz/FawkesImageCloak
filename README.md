@@ -2,6 +2,7 @@
 ![](https://media.giphy.com/media/dCBZtA2iuNqZW/giphy-downsized.gif)
 ![](https://media.giphy.com/media/dCBZtA2iuNqZW/giphy-downsized.gif)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsztekz%2FFawkesImageCloak&count_bg=%2379C83D&title_bg=%23555555&icon=magisk.svg&icon_color=%23E7E7E7&title=Anons+++&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # MIRROR SOURCE
 
